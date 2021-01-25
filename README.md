@@ -1,4 +1,4 @@
-# Movable-Box-Generator# Movable Box Generator :sun_with_face:
+# Movable Box Generator :sun_with_face:
 
 ## [Movable Box Generator](https://movablebox.netlify.app/) :zap: 
 
